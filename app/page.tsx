@@ -5,7 +5,7 @@ import { Hero } from "@/components/hero"
 import { Team } from "@/components/Team"
 import { Features } from "@/components/Features"
 import { Button } from "@/components/ui/button"
-import { Card } from "@/components/ui/card"
+
 
 export default function Home() {
   return (
